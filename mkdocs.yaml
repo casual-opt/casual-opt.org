@@ -1,0 +1,29 @@
+site_name: Casual Optimization
+copyright: "&copy; 2025 casual optimization"
+
+repo_url: https://github.com/casual-opt/casual-opt.org
+repo_name: casual-opt/casual-opt.org
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - toc.integrate
+    - navigation.top
+  icon:
+    repo: fontawesome/brands/github
+
+nav:
+  - Home: index.md
+  - Readings: readings.md
+  - YouTube: youtube.md
+  - Calendar: calendar.md
+
+plugins:
+  - search:
+      lang: ja
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - pymdownx.details
