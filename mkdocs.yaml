@@ -12,6 +12,8 @@ theme:
     - navigation.top
   icon:
     repo: fontawesome/brands/github
+  palette:
+    primary: grey
 
 nav:
   - Home: index.md

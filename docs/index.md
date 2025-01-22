@@ -18,4 +18,4 @@ Casual Optimization は、特定のベンダーに依存しない数理最適化
 
 ### X Hash Tag
 
-Casual Optimization に関する話題を X でポストする際には、ハッシュタグ [#casual-opt]() を利用してください。
+Casual Optimization に関する話題を X でポストする際には、ハッシュタグ [#casual_opt](https://x.com/search?q=%23casual_opt) を利用してください。
