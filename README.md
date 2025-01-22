@@ -15,7 +15,8 @@ make mkdocs-serve
 
 コンテナを起動したら、ブラウザで http://localhost:8000/ にアクセスしてください。
 
-!!!
+> [!TIP]
+> Docker を使わない場合は、適当に `pip install mkdocs-material` などで必要なものをインストールして `mkdocs serve` でも構いません。
 
 ## 内容の編集
 
