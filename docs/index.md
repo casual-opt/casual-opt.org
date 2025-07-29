@@ -6,11 +6,11 @@ Casual Optimization は、特定のベンダーに依存しない数理最適化
 
 ## How to Join
 
-### Slack
+### Discord
 
-日々のコミュニケーションを Slack 上で行っています。公開前のイベント情報や、輪読会・勉強会の募集、数理最適化に関する質問への回答なども行いますので、以下のリンクからご参加ください。
+日々のコミュニケーションを Discord 上で行っています。公開前のイベント情報や、輪読会・勉強会の募集、数理最適化に関する質問への回答なども行いますので、以下のリンクからご参加ください。
 
-[Join Slack](https://join.slack.com/t/casual-opt/shared_invite/zt-1a5rslj1j-ypWSqGGVZf~FW8~8PkH5MQ){ .md-button }
+[Join Discord](https://discord.gg/7DYzNKvUkN){ .md-button }
 
 ### Connpass
 
