@@ -4,4 +4,6 @@ mkdocs-build:
 
 .PHONY: mkdocs-serve
 mkdocs-serve:
-	docker run --rm -it -p 8000:8000 -v ${PWD}:/docs squidfunk/mkdocs-material
+	docker run --rm -it -p 8000:8000 -v ${PWD}:/docs squidfunk/mkdocs-material serve \
+	  --livereload \
+	  --dev-addr 0.0.0.0:8000
