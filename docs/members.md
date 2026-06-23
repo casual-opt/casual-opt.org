@@ -34,9 +34,9 @@
 
     ---
 
-    ![Image title](https://dummyimage.com/128x128/eee/aaa){ align=left }
+    ![Image title](https://avatars.githubusercontent.com/u/29663697?v=4){ align=left }
 
-    自己紹介
+    大学でオペレーションズ・リサーチ，数理最適化の研究をやっています．
 
     ---
 
