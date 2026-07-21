@@ -14,16 +14,16 @@
 
     [:fontawesome-brands-x-twitter: __@H_A_ust__](https://x.com/H_A_ust)
 
-    
 
-    
+
+
 
 
 -   :material-account-outline: __Jiro Iwanaga__
 
     ---
 
-    ![Image title](https://dummyimage.com/128x128/eee/aaa){ align=left }
+    ![Image title](https://dummyimage.com/128x128/eee/aaa){ width=128 align=left }
 
     自己紹介
 
@@ -34,7 +34,7 @@
 
     ---
 
-    ![Image title](https://avatars.githubusercontent.com/u/29663697?v=4){ align=left }
+    ![Image title](https://avatars.githubusercontent.com/u/29663697?v=4){ width=128  align=left }
 
     大学でオペレーションズ・リサーチ，数理最適化の研究をやっています．
 
@@ -45,7 +45,7 @@
 
     ---
 
-    ![Image title](https://dummyimage.com/128x128/eee/aaa){ align=left }
+    ![Image title](https://dummyimage.com/128x128/eee/aaa){ width=128 align=left }
 
     自己紹介
 
